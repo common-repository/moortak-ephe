@@ -1,0 +1,369 @@
+# Copyright (C) 2020 Ali Qorbani
+# This file is distributed under the same license as the Moortak portfolio hover effect for Elementor plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Moortak portfolio hover effect for Elementor 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/moortak-ephe\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-08-06T16:50:03+04:30\n"
+"PO-Revision-Date: 2020-08-06 16:51+0430\n"
+"X-Generator: Poedit 2.4\n"
+"X-Domain: moortak-ephe\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: fa_IR\n"
+
+#. Plugin Name of the plugin
+msgid "Moortak portfolio hover effect for Elementor"
+msgstr "نمونه کارها با افکت نمایش Hover"
+
+#. Plugin URI of the plugin
+msgid "https://aliqorbani.github.io/plugins/moortak-ephe"
+msgstr "https://aliqorbani.github.io/plugins/moortak-ephe"
+
+#. Description of the plugin
+msgid "uses for show your portfolios with a pretty hover effect."
+msgstr "افزودن ابزارک جدید به بخش ویرایشگر المنتور. این ابزارک برای افکت نمایش نمونه کارها استفاده میشود."
+
+#. Author of the plugin
+msgid "Ali Qorbani"
+msgstr "علی قربانی"
+
+#. Author URI of the plugin
+msgid "https://aliqorbani.github.io"
+msgstr "https://aliqorbani.github.io"
+
+#: includes/post-type.php:7
+msgctxt "Post Type General Name"
+msgid "Portfolios"
+msgstr "نمونه کارها"
+
+#: includes/post-type.php:8
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr "نمونه کار"
+
+#: includes/post-type.php:9 includes/post-type.php:36
+msgid "Portfolios"
+msgstr "نمونه کارها"
+
+#: includes/post-type.php:10 includes/post-type.php:35
+msgid "Portfolio"
+msgstr "نمونه کار"
+
+#: includes/post-type.php:11
+msgid "Portfolio Archives"
+msgstr "بایگانی نمونه کارها"
+
+#: includes/post-type.php:12
+msgid "Portfolio Attributes"
+msgstr "ویژگیهای نمونه کار"
+
+#: includes/post-type.php:13
+msgid "Parent Portfolio:"
+msgstr "نمونه‌کار مرجع:"
+
+#: includes/post-type.php:14
+msgid "All Portfolios"
+msgstr "تمام محصولات"
+
+#: includes/post-type.php:15
+msgid "Add New Portfolio"
+msgstr "افزودن محصول جدید"
+
+#: includes/post-type.php:16
+msgid "Add New"
+msgstr "افزودن مورد جدید"
+
+#: includes/post-type.php:17
+msgid "New Portfolio"
+msgstr "نمونه کار جدید"
+
+#: includes/post-type.php:18
+msgid "Edit Portfolio"
+msgstr "ویرایش محصول"
+
+#: includes/post-type.php:19
+msgid "Update Portfolio"
+msgstr "بروز رسانی محصول"
+
+#: includes/post-type.php:20
+msgid "View Portfolio"
+msgstr "دیدن محصول"
+
+#: includes/post-type.php:21
+msgid "View Portfolios"
+msgstr "دیدن نمونه کارها"
+
+#: includes/post-type.php:22
+msgid "Search Portfolio"
+msgstr "جستجوی محصول"
+
+#: includes/post-type.php:23
+msgid "Not found"
+msgstr "پیدا نشد"
+
+#: includes/post-type.php:24
+msgid "Not found in Trash"
+msgstr "در سطل زباله یافت نشد"
+
+#: includes/post-type.php:25
+msgid "Featured Image"
+msgstr "تصویر شاخص"
+
+#: includes/post-type.php:26
+msgid "Set featured image"
+msgstr "تنظیم تصویر شاخص"
+
+#: includes/post-type.php:27
+msgid "Remove featured image"
+msgstr "حذف تصویر شاخص"
+
+#: includes/post-type.php:28
+msgid "Use as featured image"
+msgstr "استفاده بعنوان تصویر"
+
+#: includes/post-type.php:29
+msgid "Uploaded to this Portfolio"
+msgstr "آپلود شده در این نمونه کار"
+
+#: includes/post-type.php:30
+msgid "Portfolios list"
+msgstr "لیست نمونه کارها"
+
+#: includes/post-type.php:31
+msgid "Portfolios list navigation"
+msgstr "منو لیست نمونه کارها"
+
+#: includes/post-type.php:32
+msgid "Filter Portfolios list"
+msgstr "فیلتر لیست نمونه کارها"
+
+#: includes/post-type.php:56 includes/post-type.php:74
+msgid "Portfolio Categories"
+msgstr "دسته بندیهای نمونه کار"
+
+#: includes/post-type.php:57
+msgid "Portfolio Category"
+msgstr "دسته بندی نمونه کار"
+
+#: includes/post-type.php:59
+msgid "Search Portfolio Categories"
+msgstr "جستجوی دسته‌های نمونه کار"
+
+#: includes/post-type.php:61
+msgid "All Portfolio Categories"
+msgstr "همه دسته بندی های نمونه کارها"
+
+#: includes/post-type.php:63
+msgid "Parent Portfolio Category"
+msgstr "دسته بندی والد"
+
+#: includes/post-type.php:65
+msgid "Parent Portfolio Category:"
+msgstr "دسته بندی والد:"
+
+#: includes/post-type.php:67
+msgid "Edit Portfolio Category"
+msgstr "ویرایش دسته نمونه کار"
+
+#: includes/post-type.php:69
+msgid "Update Portfolio Category"
+msgstr "بروزرسانی دسته نمونه کار"
+
+#: includes/post-type.php:71
+msgid "Add New  Portfolio Category"
+msgstr "افزودن دسته جدید"
+
+#: includes/post-type.php:73
+msgid "New Portfolio Category Name"
+msgstr "نام دسته جدید"
+
+#: includes/post-type.php:77 includes/post-type.php:87
+msgid "Portfolio Tags"
+msgstr "برچسبهای نمونه کار"
+
+#: includes/post-type.php:78
+msgid "Portfolio Tag"
+msgstr "برچسب نمونه کار"
+
+#: includes/post-type.php:79
+msgid "Search Portfolio Tags"
+msgstr "جستجوی برچسب‌ها"
+
+#: includes/post-type.php:80
+msgid "All Portfolio Tags"
+msgstr "همه برچسب‌ها"
+
+#: includes/post-type.php:81
+msgid "Parent Portfolio Tag:"
+msgstr "برچسب والد:"
+
+#: includes/post-type.php:82
+msgid "Edit Portfolio Tag"
+msgstr "ویرایش برچسب"
+
+#: includes/post-type.php:83
+msgid "Update Portfolio Tag"
+msgstr "به روز رسانی برچسب"
+
+#: includes/post-type.php:84
+msgid "Add New Portfolio Tag"
+msgstr "افزودن برچسب جدید"
+
+#: includes/post-type.php:86
+msgid "New Portfolio Tag Name"
+msgstr "نام برچسب جدید"
+
+#: includes/widget.php:17
+msgid "Portfolio Hover Effect"
+msgstr "نمونه کارها با افکت نمایش Hover"
+
+#: includes/widget.php:34
+msgid "Portfolio Content"
+msgstr "محتوای نمونه کار"
+
+#: includes/widget.php:53
+msgid "Categories"
+msgstr "دسته‌بندی‌ها"
+
+#: includes/widget.php:62
+msgid "Order Items"
+msgstr "مرتب سازی آیتم ها"
+
+#: includes/widget.php:65
+msgid "Random"
+msgstr "تصادفی"
+
+#: includes/widget.php:66
+msgid "Date"
+msgstr "تاریخ"
+
+#: includes/widget.php:73
+msgid "Count"
+msgstr "تعداد"
+
+#: includes/widget.php:80
+msgid "Excerpt word count"
+msgstr "طول خلاصه"
+
+#: includes/widget.php:88
+msgid "Styles"
+msgstr "استایلها"
+
+#: includes/widget.php:95
+msgid "Item Content background"
+msgstr "پس زمینه محتوای آیتم"
+
+#: includes/widget.php:97 includes/widget.php:118 includes/widget.php:139
+#: includes/widget.php:177 includes/widget.php:231
+msgid "Off"
+msgstr "غیر فعال"
+
+#: includes/widget.php:98 includes/widget.php:119 includes/widget.php:140
+#: includes/widget.php:178 includes/widget.php:232
+msgid "On"
+msgstr "فعال"
+
+#: includes/widget.php:106
+msgid "Content Background"
+msgstr "پس زمینه محتوا"
+
+#: includes/widget.php:116
+msgid "Item hover background"
+msgstr "رنگ زمینه در حالت هاور"
+
+#: includes/widget.php:127
+msgid "Content Hover Background"
+msgstr "رنگ پس زمینه هاور محتوا"
+
+#: includes/widget.php:137 includes/widget.php:149
+msgid "Item hover after background"
+msgstr "رنگ پس زمینه هاور روی عکس"
+
+#: includes/widget.php:160
+msgid "Box Shadow"
+msgstr "سایه باکس"
+
+#: includes/widget.php:168
+msgid "Item Title Typography"
+msgstr "فونت عنوان"
+
+#: includes/widget.php:175
+msgid "Item Title styles"
+msgstr "استایل عنوان"
+
+#: includes/widget.php:185
+msgid "Title Normal Color"
+msgstr "رنگ عنوان حالت عادی"
+
+#: includes/widget.php:196
+msgid "Title Hover Color"
+msgstr "رنگ عنوان حالت هاور"
+
+#: includes/widget.php:209
+msgid "show excerpt?"
+msgstr "نمایش خلاصه؟"
+
+#: includes/widget.php:211
+msgid "Yes"
+msgstr "بله"
+
+#: includes/widget.php:212
+msgid "No"
+msgstr "خیر"
+
+#: includes/widget.php:222
+msgid "Item Content Typography"
+msgstr "فونت خلاصه"
+
+#: includes/widget.php:229
+msgid "Item excerpt styles"
+msgstr "استایل خلاصه"
+
+#: includes/widget.php:239
+msgid "Excerpt Normal Color"
+msgstr "رنگ خلاصه حالت عادی"
+
+#: includes/widget.php:250
+msgid "Excerpt Hover Color"
+msgstr "رنگ خلاصه حالت هاور"
+
+#: includes/widget.php:262
+msgid "Items Per Row"
+msgstr "تعداد آیتم ها در ردیف"
+
+#: includes/widget.php:265
+msgid "One"
+msgstr "یک"
+
+#: includes/widget.php:266
+msgid "Two"
+msgstr "دو"
+
+#: includes/widget.php:267
+msgid "Three"
+msgstr "سه"
+
+#: includes/widget.php:268
+msgid "Four"
+msgstr "چهار"
+
+#: includes/widget.php:269
+msgid "Six"
+msgstr "شش"
+
+#: includes/widget.php:282
+msgid "Item padding"
+msgstr "فاصله بین آیتم ها"
+
+#: includes/widget.php:310
+msgid "Item Margin bottom"
+msgstr "فاصله(margin) آیتم از پایین"
+
+#: includes/widget.php:338
+msgid "Border Radius"
+msgstr "گوشه گرد"

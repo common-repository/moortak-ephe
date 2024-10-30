@@ -1,0 +1,378 @@
+# Copyright (C) 2020 Ali Qorbani
+# This file is distributed under the same license as the Moortak portfolio hover effect for Elementor plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Moortak portfolio hover effect for Elementor 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/moortak-ephe\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-08-06T16:50:03+04:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: moortak-ephe\n"
+
+#. Plugin Name of the plugin
+msgid "Moortak portfolio hover effect for Elementor"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://aliqorbani.github.io/plugins/moortak-ephe"
+msgstr ""
+
+#. Description of the plugin
+msgid "uses for show your portfolios with a pretty hover effect."
+msgstr ""
+
+#. Author of the plugin
+msgid "Ali Qorbani"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://aliqorbani.github.io"
+msgstr ""
+
+#: includes/post-type.php:7
+msgctxt "Post Type General Name"
+msgid "Portfolios"
+msgstr ""
+
+#: includes/post-type.php:8
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/post-type.php:9
+#: includes/post-type.php:36
+msgid "Portfolios"
+msgstr ""
+
+#: includes/post-type.php:10
+#: includes/post-type.php:35
+msgid "Portfolio"
+msgstr ""
+
+#: includes/post-type.php:11
+msgid "Portfolio Archives"
+msgstr ""
+
+#: includes/post-type.php:12
+msgid "Portfolio Attributes"
+msgstr ""
+
+#: includes/post-type.php:13
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: includes/post-type.php:14
+msgid "All Portfolios"
+msgstr ""
+
+#: includes/post-type.php:15
+msgid "Add New Portfolio"
+msgstr ""
+
+#: includes/post-type.php:16
+msgid "Add New"
+msgstr ""
+
+#: includes/post-type.php:17
+msgid "New Portfolio"
+msgstr ""
+
+#: includes/post-type.php:18
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/post-type.php:19
+msgid "Update Portfolio"
+msgstr ""
+
+#: includes/post-type.php:20
+msgid "View Portfolio"
+msgstr ""
+
+#: includes/post-type.php:21
+msgid "View Portfolios"
+msgstr ""
+
+#: includes/post-type.php:22
+msgid "Search Portfolio"
+msgstr ""
+
+#: includes/post-type.php:23
+msgid "Not found"
+msgstr ""
+
+#: includes/post-type.php:24
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/post-type.php:25
+msgid "Featured Image"
+msgstr ""
+
+#: includes/post-type.php:26
+msgid "Set featured image"
+msgstr ""
+
+#: includes/post-type.php:27
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/post-type.php:28
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/post-type.php:29
+msgid "Uploaded to this Portfolio"
+msgstr ""
+
+#: includes/post-type.php:30
+msgid "Portfolios list"
+msgstr ""
+
+#: includes/post-type.php:31
+msgid "Portfolios list navigation"
+msgstr ""
+
+#: includes/post-type.php:32
+msgid "Filter Portfolios list"
+msgstr ""
+
+#: includes/post-type.php:56
+#: includes/post-type.php:74
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/post-type.php:57
+msgid "Portfolio Category"
+msgstr ""
+
+#: includes/post-type.php:59
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: includes/post-type.php:61
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: includes/post-type.php:63
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: includes/post-type.php:65
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: includes/post-type.php:67
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: includes/post-type.php:69
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: includes/post-type.php:71
+msgid "Add New  Portfolio Category"
+msgstr ""
+
+#: includes/post-type.php:73
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: includes/post-type.php:77
+#: includes/post-type.php:87
+msgid "Portfolio Tags"
+msgstr ""
+
+#: includes/post-type.php:78
+msgid "Portfolio Tag"
+msgstr ""
+
+#: includes/post-type.php:79
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: includes/post-type.php:80
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: includes/post-type.php:81
+msgid "Parent Portfolio Tag:"
+msgstr ""
+
+#: includes/post-type.php:82
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: includes/post-type.php:83
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: includes/post-type.php:84
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: includes/post-type.php:86
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: includes/widget.php:17
+msgid "Portfolio Hover Effect"
+msgstr ""
+
+#: includes/widget.php:34
+msgid "Portfolio Content"
+msgstr ""
+
+#: includes/widget.php:53
+msgid "Categories"
+msgstr ""
+
+#: includes/widget.php:62
+msgid "Order Items"
+msgstr ""
+
+#: includes/widget.php:65
+msgid "Random"
+msgstr ""
+
+#: includes/widget.php:66
+msgid "Date"
+msgstr ""
+
+#: includes/widget.php:73
+msgid "Count"
+msgstr ""
+
+#: includes/widget.php:80
+msgid "Excerpt word count"
+msgstr ""
+
+#: includes/widget.php:88
+msgid "Styles"
+msgstr ""
+
+#: includes/widget.php:95
+msgid "Item Content background"
+msgstr ""
+
+#: includes/widget.php:97
+#: includes/widget.php:118
+#: includes/widget.php:139
+#: includes/widget.php:177
+#: includes/widget.php:231
+msgid "Off"
+msgstr ""
+
+#: includes/widget.php:98
+#: includes/widget.php:119
+#: includes/widget.php:140
+#: includes/widget.php:178
+#: includes/widget.php:232
+msgid "On"
+msgstr ""
+
+#: includes/widget.php:106
+msgid "Content Background"
+msgstr ""
+
+#: includes/widget.php:116
+msgid "Item hover background"
+msgstr ""
+
+#: includes/widget.php:127
+msgid "Content Hover Background"
+msgstr ""
+
+#: includes/widget.php:137
+#: includes/widget.php:149
+msgid "Item hover after background"
+msgstr ""
+
+#: includes/widget.php:160
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/widget.php:168
+msgid "Item Title Typography"
+msgstr ""
+
+#: includes/widget.php:175
+msgid "Item Title styles"
+msgstr ""
+
+#: includes/widget.php:185
+msgid "Title Normal Color"
+msgstr ""
+
+#: includes/widget.php:196
+msgid "Title Hover Color"
+msgstr ""
+
+#: includes/widget.php:209
+msgid "show excerpt?"
+msgstr ""
+
+#: includes/widget.php:211
+msgid "Yes"
+msgstr ""
+
+#: includes/widget.php:212
+msgid "No"
+msgstr ""
+
+#: includes/widget.php:222
+msgid "Item Content Typography"
+msgstr ""
+
+#: includes/widget.php:229
+msgid "Item excerpt styles"
+msgstr ""
+
+#: includes/widget.php:239
+msgid "Excerpt Normal Color"
+msgstr ""
+
+#: includes/widget.php:250
+msgid "Excerpt Hover Color"
+msgstr ""
+
+#: includes/widget.php:262
+msgid "Items Per Row"
+msgstr ""
+
+#: includes/widget.php:265
+msgid "One"
+msgstr ""
+
+#: includes/widget.php:266
+msgid "Two"
+msgstr ""
+
+#: includes/widget.php:267
+msgid "Three"
+msgstr ""
+
+#: includes/widget.php:268
+msgid "Four"
+msgstr ""
+
+#: includes/widget.php:269
+msgid "Six"
+msgstr ""
+
+#: includes/widget.php:282
+msgid "Item padding"
+msgstr ""
+
+#: includes/widget.php:310
+msgid "Item Margin bottom"
+msgstr ""
+
+#: includes/widget.php:338
+msgid "Border Radius"
+msgstr ""
